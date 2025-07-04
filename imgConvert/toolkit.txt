@@ -1,0 +1,5 @@
+Pillow
+OpenCV
+NumPy
+torch + torchvision + torch.hub 模型
+OpenCV + 深度學習模型
